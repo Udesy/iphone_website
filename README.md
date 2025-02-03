@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href='' target='_blank'><img width=100% src='https://i.postimg.cc/JGzKwnKW/Screenshot-2025-02-03-123619.png' border='0' alt='Screenshot-2025-02-03-123619'/></a>
+   <img src="https://i.imghippo.com/files/kBVo7305M.png" alt="" border="0">
   <br />
 
   <div>
@@ -92,9 +92,10 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 
-<a href="" target="_blank"><img width=100% src="https://i.postimg.cc/G4ybQbWk/Screenshot-2025-02-03-124352.png" alt="Screenshot-2025-02-03-124352"/></a><br/><br/>
-<a href="" target="_blank"><img width=100% src="https://i.postimg.cc/PLbhg2rJ/Screenshot-2025-02-03-124422.png" alt="Screenshot-2025-02-03-124422"/></a><br/><br/>
-<a href="" target="_blank"><img width=100% src="https://i.postimg.cc/Y4BMDJ7T/Screenshot-2025-02-03-124438.png" alt="Screenshot-2025-02-03-124438"/></a><br/><br/>
+<img src="https://i.imghippo.com/files/uqwG3556jk.png" alt="" border="0"><br/><br/>
+<img src="https://i.imghippo.com/files/CfW5008Vy.png" alt="" border="0"><br/><br/>
+<img src="https://i.imghippo.com/files/SoM5090.png" alt="" border="0"><br/><br/>
+
 
 ## <a name="quick-start">⭐ Give it a Star</a>
 If you like the Project consider it giving a star. 
